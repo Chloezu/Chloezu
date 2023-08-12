@@ -3,17 +3,17 @@
         Welcome to my profile! 
     <img src="./Resources/Images/IconNaturePhysical.png" /> </h1>
 
-<center>
+<p align="center">
     <img src="./Resources/Images/103005.png" width="150px"/>
-</center>
+</p>
 
 
-<center>
+<p align="center">
     <font size="3px">
 Its quite a boring one right now, but only because I have no clue what to make that would be worthy enough of being put on here. <br>
 There will eventually be various projects here coded and non coded!
     </font>
-</center>
+
 
 <h2 align="center"> 
     <img src="./Resources/Images/IconNatureColorFire.png"/> 
@@ -23,16 +23,17 @@ There will eventually be various projects here coded and non coded!
     <img src="./Resources/Images/IconNatureColorFire.png"/> 
 </h2>
 
-<center>
+<p align="center">
 
 <img src="./Resources/Images/103008.png" width="100px"/>
 
-<!--<img src="./Resources/Images/AttributesBg.png" width="25px"/>-->
+
 <font size="3px">
+<p align="center">
 Heya, my name's Chloe. 
-
+<p align="center">
 I am an aspiring software engineer with a passion for creating things and improving my skills!
-
+<p align="center">
 I am a Star rail enthusiast ~~addict~~ and would list more games but there would be too many <br>
 Don't be surprised if there ends up being a lot of Star rail related repositories on my profile at somepoint
 
@@ -61,7 +62,7 @@ Interested in reverse engineering - Both software and hardware side - Not capabl
 <img src="./Resources/Images/AttributesBg.png" width="15px"/> 
 <br>
 </font>
-</center>
+</p>
 
     
 
@@ -73,42 +74,44 @@ Visualized list of what I know and use
 </h2>
 
 
-<center>
+
 <font size="5px">
+<p align="center">
 ~ Langs and Frameworks I am comfortable with ~
 
-
+<p align="center">
 <img src="./Resources/Images/csharp.png" width="50px"/>
 <img src="./Resources/Images/Python.png" width="50px"/>
 
-
+<p align="center">
 ~ Langs and Frameworks I am learning ~
-
+<p align="center">
 <img src="./Resources/Images/Lua.png" width="50px"/>
 <img src="./Resources/Images/Java.png" width="50px"/>
 <img src="./Resources/Images/C.png" width="50px"/>
 <img src="./Resources/Images/HTML5.png" width="50px"/>
 
-
+<p align="center">
 ~ Langs and Frameworks I want to learn ~
-
+<p align="center">
 <img src="./Resources/Images/Rust.png" width="50px"/>
 <img src="./Resources/Images/Ruby.png" width="50px"/>
 <img src="./Resources/Images/C++.png" width="50px"/>
-<img src="./Resources/Images/Js.png" width="50px"/>
+<img src="./Resources/Images/js.png" width="50px"/>
 <img src="./Resources/Images/css.png" width="44px"/>
 <img src="./Resources/Images/rbyrails.png" width="50px"/>
-<img src="./Resources/Images/Vuejs.png" width="50px"/>
+<img src="./Resources/Images/vuejs.png" width="50px"/>
 <img src="./Resources/Images/nodejs.png" width="50px"/>
 
+<p align="center">
 ~ Programs I use ~
-
-<img src="./Resources/Images/Blender.png" width="60px"/>
+<p align="center">
+<img src="./Resources/Images/blender.png" width="60px"/>
 <img src="./Resources/Images/vscode.png" width="50px"/>
-<img src="./Resources/Images/Unity.png" width="50px"/>
+<img src="./Resources/Images/unity.png" width="50px"/>
 
 </font>
-</center>
+</p>
 
 <h2 align="center"> Thank you for reading! </h2>
 
