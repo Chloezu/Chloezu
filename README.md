@@ -34,7 +34,7 @@ Heya, my name's Chloe.
 <p align="center">
 I am an aspiring software engineer with a passion for creating things and improving my skills!
 <p align="center">
-I am a Star rail enthusiast ~~addict~~ and would list more games but there would be too many <br>
+I am a Star rail enthusiast ᵃᵈᵈᶦᶜᵗ and would list more games but there would be too many <br>
 Don't be surprised if there ends up being a lot of Star rail related repositories on my profile at somepoint
 
 <img src="./Resources/Images/AttributesBg.png" width="15px"/> 
