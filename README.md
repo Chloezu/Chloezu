@@ -36,7 +36,7 @@ I am an aspiring software engineer with a passion for creating things and improv
 <p align="center">
 I am a Star rail enthusiast ᵃᵈᵈᶦᶜᵗ and would list more games but there would be too many <br>
 Don't be surprised if there ends up being a lot of Star rail related repositories on my profile at somepoint
-
+<br>
 <img src="./Resources/Images/AttributesBg.png" width="15px"/> 
 Semi experienced in 3d modeling with Blender 
 <img src="./Resources/Images/AttributesBg.png" width="15px"/> 
