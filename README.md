@@ -82,26 +82,26 @@ Visualized list of what I know and use
 <p align="center">
 <img src="./Resources/Images/csharp.png" width="50px"/>
 <img src="./Resources/Images/Python.png" width="50px"/>
+<img src="./Resources/Images/css.png" width="44px"/>
+<img src="./Resources/Images/HTML5.png" width="61px"/>
 
 <p align="center">
 ~ Langs and Frameworks I am learning ~
 <p align="center">
 <img src="./Resources/Images/Lua.png" width="50px"/>
-<img src="./Resources/Images/Java.png" width="50px"/>
 <img src="./Resources/Images/C.png" width="50px"/>
-<img src="./Resources/Images/HTML5.png" width="50px"/>
+<img src="./Resources/Images/C++.png" width="50px"/>
+<img src="./Resources/Images/js.png" width="50px"/>
 
 <p align="center">
 ~ Langs and Frameworks I want to learn ~
 <p align="center">
 <img src="./Resources/Images/Rust.png" width="50px"/>
 <img src="./Resources/Images/Ruby.png" width="50px"/>
-<img src="./Resources/Images/C++.png" width="50px"/>
-<img src="./Resources/Images/js.png" width="50px"/>
-<img src="./Resources/Images/css.png" width="44px"/>
 <img src="./Resources/Images/rbyrails.png" width="50px"/>
 <img src="./Resources/Images/vuejs.png" width="50px"/>
 <img src="./Resources/Images/nodejs.png" width="50px"/>
+<img src="./Resources/Images/Java.png" width="50px"/>
 
 <p align="center">
 ~ Programs I use ~
