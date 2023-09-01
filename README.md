@@ -31,7 +31,7 @@ I am an aspiring software engineer with many interests and a passion for learnin
 <div>
 
 <h2></h2>
-<img  align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chloezu"/>
+<img  align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chloezu&theme=tokyonight"/>
 <!-- IDEs section -->
 <details> 
   <summary> <b> Integrated development environments </b> </summary>
