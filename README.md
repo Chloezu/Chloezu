@@ -164,6 +164,3 @@ Thank you for reading!! <br>
 
 
 
-<!-- Need one for github desktop, java, agama materials, hxd, operaGX, sony vegas, vrc creator companion?, proref, etc -->
-<!-- <img src = ""/> -->
-
